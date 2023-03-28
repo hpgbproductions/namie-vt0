@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "namie-vt0.moc3",
+		"Textures": [
+			"namie-vt0.2048/texture_00.png"
+		],
+		"Physics": "namie-vt0.physics3.json",
+		"Pose": "namie-vt0.pose3.json",
+		"DisplayInfo": "namie-vt0.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthForm",
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}
