@@ -181,6 +181,10 @@
 	],
 	"CombinedParameters": [
 		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
 			"ParamEyeLOpen",
 			"ParamEyeLSmile"
 		],
